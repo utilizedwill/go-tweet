@@ -70,7 +70,7 @@ This command will check the current date and send any tweets that have a schedul
 
 ## Contributing
 
-If you find a bug or have a feature request, please create an issue on the [GitHub repository](https://github.com/your-username/go-tweet/issues).
+If you find a bug or have a feature request, please create an issue on the [GitHub repository](https://github.com/utilizedwill/go-tweet/issues).
 
 If you want to contribute code, please fork the repository and create a pull request with your changes. We welcome contributions from the community!
 
