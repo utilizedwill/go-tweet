@@ -1,0 +1,24 @@
+{
+    "tweets": [
+        {
+            "tweet": "Educational playlist from StatQuest about #MachineLearning - I recommend you to add your bookmarks! \n https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+            "date": "2023-05-07",
+            "done": true
+        },
+        {
+            "tweet": "Freeze.rs is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls written in RUST  \n https://github.com/optiv/Freeze.rs",
+            "date": "2023-05-08",
+            "done": false
+        },
+        {
+            "tweet": "Teler-Waf - A Go HTTP Middleware That Provides Teler IDS Functionality \n https://www.kitploit.com/2023/05/teler-waf-go-http-middleware-that.html",
+            "date": "2023-05-08",
+            "done": false
+        },
+        {
+            "tweet": "Spartacus - DLL Hijacking Discovery Tool \n https://www.kitploit.com/2023/05/spartacus-dll-hijacking-discovery-tool.html",
+            "date": "2023-05-08",
+            "done": false
+        }
+    ]
+}
